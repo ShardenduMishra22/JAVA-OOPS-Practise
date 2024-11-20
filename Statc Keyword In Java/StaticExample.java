@@ -27,7 +27,7 @@ class StaticExample {
         obj2.showCounter();
 
         // Increment using one object and show impact on all instances
-        obj1.incrementCounter();
+        // obj1.incrementCounter();
         // Warning because : The static method incrementCounter() from the type StaticExample should be accessed in a static way
 
         obj2.showCounter();
