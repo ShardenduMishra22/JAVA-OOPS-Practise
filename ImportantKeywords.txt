@@ -12,7 +12,6 @@ Polymorphism
 Abstraction
 Super
 Encapsulation
-
 Overloading
 Arrays
 Strings
